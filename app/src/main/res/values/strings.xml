@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MBCET Slip App</string>
+    <string name="slip_misc">Miscellaneous</string>
+    <string name="slip_gate">Gate Pass</string>
+    <string name="slip_id">ID Card Duplicate</string>
+    <string name="slip_lab">Lab Access Request</string>
+    <string name="slip_extra">Extra Class Request</string>
+    <string name="slip_exam">Exam Grievances</string>
+    <string name="approve_slip">Approve</string>
+    <string name="requested">Requested</string>
+    <string name="approved">Approved</string>
+    <string name="hod_cs">Dr. Tessy Mathew</string>
 </resources>

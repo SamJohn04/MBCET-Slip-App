@@ -1,4 +1,4 @@
-package com.example.slipprojecttrialerror.ui.theme
+package com.example.mbcetslipapp.ui.theme
 
 data class SlipUiState (
     val userType: String = "",
